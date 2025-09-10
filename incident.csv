@@ -1,3 +1,4 @@
+
 ,Product,Business object,Issue,Solution 
 0,C4C,SalesQuote,submit disabled,2629811 - Action Submit is Disabled For Sales Quote
 1,C4C,SalesQuote,price,2940435 - Product Price Missing From Sales Quote 
@@ -48,3 +49,4 @@
 46,C4C,EmailChannel,debug email,2366451 - How to debug incoming email to C4C from backend
 47,C4C,EmailChannel,incoming email,2765602 - Incoming E-Mail Activities Are Set Automatically to Completed
 48,C4C,EmailChannel,codelist restriction,2714243 - Codelist Restriction does not work for Ticket Type using Channel E-mail
+
